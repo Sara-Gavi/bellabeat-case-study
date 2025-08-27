@@ -1,0 +1,43 @@
+---
+title: "Bellabeat Case Study"
+author: "Sara Gavi"
+date: "2025-08-27"
+output: html_document
+---
+# Introduction  
+
+“Data is like exercise: every small step builds the future.”  
+
+In this project, I use smart device data to look at patterns in daily activity, sleep, and health.  
+These insights can help Bellabeat to support women in their wellness journey.  
+
+# Ask
+(Define the business task and the key business questions)
+
+**Business Task**
+Analyze smart device fitness data (Fitbit) to find trends in user behavior. Apply these trends to Bellabeat products and propose ideas for marketing strategy to help the company grow in the global market.
+
+**Stakeholders**
+- Urška Sršen (cofounder and Chief Creative Officer)  
+- Sando Mur (cofounder)  
+- Bellabeat marketing team  
+
+**Business Questions**
+1. What are the trends in smart device usage? 
+2. How do these trends apply to Bellabeat customers?
+3. How can these trends guide Bellabeat marketing strategy?
+
+# Prepare
+(Explain the data and the limitations)
+
+# Process
+(Steps of cleaning and organizing the data)
+
+# Analyze
+(Metrics, graphs, and insights)
+
+# Share
+(Final visualizations and storytelling)
+
+# Act
+(Recomendations for Bellabeat)
